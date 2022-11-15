@@ -1,0 +1,12 @@
+{
+    "NAME":"DIAE1-1234567890",
+    "SUBNET":"subnet-01b3166e62b7ddb77",
+    "DESCR":"My Description",
+    "AMI":"ami-06640050dc3f556bb",
+    "INSTANCE_TYPE":"t2.medium",
+    "OWNER":"DevOps",
+    "SECURITY_GROUP":[
+       "sg-0aafe88c044e5a63d",
+       "sg-07239ec732cc59ce6"
+    ]
+ }
